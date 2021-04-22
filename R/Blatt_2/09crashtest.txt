@@ -1,0 +1,176 @@
+make	Model	Protection	Doors	Year	Wt
+Acura	Integra	manual belts	2	87	2350
+Acura	Integra RS	Motorized belts	4	90	2490
+Acura	Legend LS	airbag	4	88	3280
+Audi	80	manual belts	4	89	2790
+Audi	100	airbag	4	89	3100
+BMW	325i	airbag	2	90	2862
+Buick	Century	passive belts	4	91	2992
+Buick	Elect. Park Ave	manual belts	4	88	3360
+Buick	Regal	passive belts	2	88	3210
+Cadillac	De Ville	airbag	4	90	3500
+Chevrolet	Astro	manual belts	-	88	3787
+Chevrolet	Astro	manual belts	-	89	4002
+Chevrolet	Beretta	airbag	2	91	2671
+Chevrolet	Beretta GT	passive belts	2	88	2890
+Chevrolet	Camaro	manual belts	2	87	3070
+Chevrolet	Camaro	airbag	2	91	3191
+Chevrolet	Caprice	manual belts	4	89	3693
+Chevrolet	Caprice	airbag	4	91	3990
+Chevrolet	Cavalier	passive belts	4	90	2540
+Chevrolet	Corsica	manual belts	4	88	2750
+Chevrolet	Corsica	airbag	4	91	2830
+Chevrolet	C-1500	manual belts	-	88	3680
+Chevrolet	G-20 Beauville	manual belts	-	87	4887
+Chevrolet	G-20	manual belts	-	88	4244
+Chevrolet	Lumina	passive belts	4	90	3155
+Chevrolet	Suburban	manual belts	4	87	5619
+Chevrolet	S-10 Blazer 4X4	manual belts	2	89	3518
+Chevrolet	S-10 Blazer 4X4	manual belts	2	90	3720
+Chevrolet	S-10 Blazer 4X4	manual belts	4	91	3820
+Chevrolet	S-10 Pickup	manual belts	-	87	2592
+Chevrolet	S-10 Pickup 4x4	manual belts	-	90	3360
+Chrysler	Fifth Ave	airbag	4	89	3820
+Chrysler	Imperial	airbag	4	90	3540
+Chrysler	Le Baron	passive belts	2	87	2870
+Chrysler	Le Baron	airbag	2	90	3000
+Chrysler	New Yorker	manual belts	4	88	3190
+Chrysler	New Yorker	airbag	4	91	3310
+Daihatsu	Charade	manual belts	2	88	1820
+Dodge	colt	manual belts	4	88	2348
+Dodge	D-150	manual belts	-	88	3550
+Dodge	Dakota	manual belts	-	87	3010
+Dodge	Dakota 4x4	manual belts	-	90	3740
+Dodge	Daytona	airbag	2	89	2790
+Dodge	Shadow	manual belts	2	87	2550
+Dodge	Shadow	airbag	4	91	2730
+Dodge	Spirit	manual belts	4	89	2840
+Eagle	Medallion	Motorized belts	4	89	2740
+Eagle	Premier	manual belts	4	89	3060
+Ford	Aerostar	manual belts	-	87	3013
+Ford	Bronco II 4x4	manual belts	2	89	3485
+Ford	Club Wagon	manual belts	-	90	5103
+Ford	Escort	passive belts	2	87	2280
+Ford	Escort	Motorized belts	2	91	2336
+Ford	Explorer 4x4	manual belts	4	91	4212
+Ford	F-150	manual belts	-	88	3757
+Ford	Festiva	manual belts	2	88	1760
+Ford	Mustang LX	manual belts	2	87	2868
+Ford	Mustang	airbag	2	90	3445
+Ford	Probe	manual belts	2	89	2650
+Ford	Probe	Motorized belts	2	91	2810
+Ford	Ranger	manual belts	-	87	2668
+Ford	Ranger 4x4	manual belts	-	90	3533
+Ford	Taurus	manual belts	4	88	3140
+Ford	Taurus	airbag	4	90	3080
+Ford	Taurus	airbag	4	91	3290
+Ford	Tempo	passive belts	4	88	2660
+Ford	T-Bird	Motorized belts	2	89	3630
+Geo	Metro	manual belts	2	89	1590
+Geo	Metro	manual belts	4	89	1650
+Geo	Prizm	manual belts	4	90	2355
+Geo	Storm	airbag	2	91	2250
+Honda	Accord	passive belts	2	87	2440
+Honda	Accord Dx	Motorized belts	4	91	2850
+Honda	Accord Lx	airbag	4	91	3160
+Honda	Civic	Motorized belts	4	91	2252
+Honda	Civic Crx	manual belts	2	89	1882
+Honda	Civic Dx	manual belts	2	88	2077
+Honda	Prelude	passive belts	2	90	2650
+Hyundai	Excel	passive belts	4	87	2200
+Hyundai	Excel	manual belts	2	87	2180
+Hyundai	Excel	Motorized belts	2	90	2200
+Hyundai	Scoupe	passive belts	2	91	2201
+Hyundai	Sonata	manual belts	4	89	2850
+Infiniti	M-30	airbag	2	90	3370
+Isuzu	Amigo	manual belts	2	90	2900
+Isuzu	I-Mark	manual belts	4	87	2100
+Isuzu	Rodeo	manual belts	4	91	3450
+Isuzu	Spacecab	manual belts	-	87	2766
+Isuzu	Spacecab	manual belts	-	88	3128
+Isuzu	Stylus	airbag	4	91	2333
+Isuzu	Trooper II 4x4	manual belts	4	89	3685
+Isuzu	Trooper II 4x4	manual belts	4	90	3684
+Jeep	Cherokee 4x4	manual belts	4	89	3284
+Jeep	Cherokee 4x4	manual belts	4	90	3270
+Jeep	Comanche	manual belts	-	87	2907
+Jeep	Wrangler YJ 4x4	manual belts	2	87	3120
+Lexus	ES250	airbag	4	90	3280
+Lincoln	Continental	airbag	4	89	3710
+Lincoln	Town Car	airbag	4	90	4080
+Mazda	626	passive belts	4	87	2590
+Mazda	929	manual belts	4	88	3470
+Mazda	Miata	airbag	2	90	2190
+Mazda	Mpv	manual belts	-	91	3730
+Mazda	Protege	Motorized belts	4	91	2417
+Mazda	RX-7	manual belts	2	88	2630
+Mercedes	190E	airbag	4	90	3058
+Mercury	Sable	manual belts	4	88	3200
+Mercury	Topaz	airbag	4	87	2725
+Mercury	Tracer	manual belts	4	89	2280
+Mitsubishi	Eclipse	Motorized belts	2	90	2594
+Mitsubishi	Galant	manual belts	4	89	2740
+Mitsubishi	Galant	Motorized belts	4	91	2838
+Mitsubishi	Mirage	Motorized belts	4	89	2370
+Mitsubishi	Montero 4x4	manual belts	2	88	3298
+Mitsubishi	Starion	passive belts	2	87	3020
+Mitsubishi	Wagon	manual belts	-	89	3441
+Nissan	240sx	Motorized belts	2	89	2680
+Nissan	200sx	manual belts	2	87	2739
+Nissan	300zx	airbag	2	91	3324
+Nissan	Axxess	passive belts	-	90	3037
+Nissan	Maxima	Motorized belts	4	89	3160
+Nissan	Maxima SE	passive belts	4	88	3210
+Nissan	NL Xev Pickup	manual belts	-	88	2631
+Nissan	Pickup	manual belts	-	87	2714
+Nissan	Pickup	manual belts	-	89	2670
+Nissan	Pulsar Nx	manual belts	2	88	2480
+Nissan	Sentra	manual belts	4	87	2296
+Nissan	Sentra	manual belts	4	88	2328
+Nissan	Sentra	Motorized belts	2	91	2420
+Nissan	Stanza	Motorized belts	4	90	2790
+Nissan	Stanza	Motorized belts	4	91	2740
+Nissan	Van Xe	manual belts	-	88	3560
+Oldsmobile	Calais	passive belts	4	87	2650
+Oldsmobile	Delta 88	airbag	4	88	3460
+Peugeot	505S	Motorized belts	4	89	3010
+Peugeot	505	manual belts	4	87	2900
+Peugeot	505 GLS	passive belts	4	88	3070
+Plymouth	Acclaim	manual belts	4	89	2820
+Plymouth	Acclaim	airbag	4	91	2860
+Plymouth	Sundance	manual belts	4	87	2580
+Plymouth	Voyager	manual belts	-	87	3040
+Pontiac	Grand Am	passive belts	2	87	2530
+Pontiac	Le Mans	manual belts	2	88	2200
+Pontiac	Sunbird	manual belts	4	87	2415
+Pontiac	Trans Sport	manual belts	-	90	3740
+Renault	Medallion	manual belts	4	88	2660
+Saab	900S	passive belts	2	88	2840
+Saab	9000	manual belts	4	87	2990
+Saturn	SL2	Motorized belts	4	91	2453
+Subaru	GL	manual belts	4	87	2254
+Subaru	Justy DL	manual belts	2	87	1660
+Subaru	Legacy	Motorized belts	4	90	2640
+Suzuki	Sidekick 4x4	manual belts	2	89	2311
+Suzuki	Sidekick 4x4	manual belts	2	91	2643
+Toyota	4-Runner 4x4	manual belts	4	90	3860
+Toyota	Camry	passive belts	4	87	2780
+Toyota	Celica	airbag	2	90	2460
+Toyota	Corolla Fx	manual belts	2	88	2320
+Toyota	Corolla	manual belts	4	89	2370
+Toyota	Corolla	passive belts	4	91	2405
+Toyota	Cressida	Motorized belts	4	89	3450
+Toyota	Pickup	manual belts	-	87	2508
+Toyota	Pickup	manual belts	-	89	2543
+Toyota	Pickup 4x4	manual belts	-	91	3284
+Toyota	Previa	manual belts	-	91	3642
+Toyota	Tercel	manual belts	2	88	2100
+Toyota	Tercel	passive belts	4	91	2120
+Toyota	Van	manual belts	-	89	3277
+Volkswagen	Fox	manual belts	2	87	2140
+Volkswagen	Fox	manual belts	2	88	2200
+Volkswagen	Fox	manual belts	2	89	2150
+Volkswagen	Passat	Motorized belts	4	90	2990
+Volkswagen	Vanagon GL	manual belts	-	88	3520
+Volvo	740 GLE	airbag	4	88	3010
+Yugo	GV	manual belts	2	87	1850
