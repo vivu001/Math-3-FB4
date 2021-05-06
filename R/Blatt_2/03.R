@@ -40,7 +40,7 @@ hist(crash$Wt, breaks = "Sturges", freq = FALSE,
 plot(ecdf(crash$Wt), main = "Empirische Verteilungsfunktion von Gewicht",
      col = "green",
      xlab = "Gewicht (kg)",
-     pch=20) # Ãœber "pch": http://www.sthda.com/english/wiki/r-plot-pch-symbols-the-different-point-shapes-available-in-r
+     pch=20) # Ãber "pch": http://www.sthda.com/english/wiki/r-plot-pch-symbols-the-different-point-shapes-available-in-r
 
 
 
